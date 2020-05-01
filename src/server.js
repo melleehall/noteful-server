@@ -1,4 +1,5 @@
 // this is the controller file
+require('dotenv').config()
 const knex = require('knex')
 const app = require('./app')
 const { DB_URL } = require('./config')
