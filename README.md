@@ -1,6 +1,8 @@
 <h1>Noteful Server<h1>
 
-* Live Demo*: https://immense-crag-05203.herokuapp.com/
+## Live Demo
+
+* https://immense-crag-05203.herokuapp.com/
 
 ## Endpoints
 
